@@ -1,6 +1,8 @@
 import { h, app } from 'hyperapp'
 import debounce from 'debounce-promise'
 
+import './styles/main.sass'
+
 const getUserDataFn = username => {
   return fetch(`https://api.github.com/users/${username}`)
     .then(res => res.json())

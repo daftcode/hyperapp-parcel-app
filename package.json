@@ -11,5 +11,8 @@
     "debounce-promise": "^3.0.2",
     "hyperapp": "^1.0.1",
     "parcel-bundler": "^1.4.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2"
   }
 }
