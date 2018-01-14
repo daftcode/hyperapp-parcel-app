@@ -7,6 +7,8 @@
   "dependencies": {
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "debounce-promise": "^3.0.2",
     "hyperapp": "^1.0.1",
     "parcel-bundler": "^1.4.1"
   }
